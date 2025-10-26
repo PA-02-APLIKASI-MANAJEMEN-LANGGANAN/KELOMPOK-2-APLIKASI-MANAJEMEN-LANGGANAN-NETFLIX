@@ -115,5 +115,22 @@ Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, 
 
 <img width="754" height="543" alt="image" src="https://github.com/user-attachments/assets/7581c0a7-10b7-471f-8f62-d99070351458" />                                                
 
-1.3 Lihat status berlangganan pengguna           
+1.3 Lihat status berlangganan pengguna
+
+<img width="728" height="656" alt="image" src="https://github.com/user-attachments/assets/efe90fef-5c57-49ab-b141-7510f9f6b899" />
+
+1.4 Hapus status langganan pengguna
+
+<img width="716" height="837" alt="image" src="https://github.com/user-attachments/assets/6f8ce8c4-f7f6-49c8-b946-21a7a539f892" />
+
+1.5 Top up saldo dan cek saldo
+
+<img width="765" height="545" alt="image" src="https://github.com/user-attachments/assets/b9966c80-ccb6-4174-9bad-931393f29690" />
+
+1.6 Logout 
+
+
+
+
+
 
