@@ -84,12 +84,16 @@ Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, 
 
 <img width="702" height="675" alt="ubah 1" src="https://github.com/user-attachments/assets/d7eb78b3-ff27-456b-8b8e-d6e4a1e26629" />  
 
-1.4 Ubah Paket Berlangganan                                                 
-                                              
+1.4 Ubah Paket Berlangganan 
+
 <img width="679" height="272" alt="ubah 2" src="https://github.com/user-attachments/assets/0b740fde-0cab-441d-9407-025eab76d4b3" />  
 
 (TAMPILAN PAKET BERLANGGANAN SETELAH DI UBAH)                                      
 
+<img width="749" height="650" alt="image" src="https://github.com/user-attachments/assets/983bc724-761c-4d07-8f25-d031b91a711b" />                                    
+
+1.4.1 Ubah paket Berlangganan jika ID tidak ditemukan
+                                              
 <img width="716" height="598" alt="image" src="https://github.com/user-attachments/assets/7aa5d8a1-3739-45f1-9baa-d5c48fdd3d4a" />   
 
 1.5 Hapus Langganan jika setelah menghapus satu paket langganan admin memilih kembali ke menu utama 
@@ -97,9 +101,17 @@ Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, 
 <img width="752" height="868" alt="HAPUS LANGGANAN 1 'y'" src="https://github.com/user-attachments/assets/bf08d214-af36-4636-9c89-e65087ca3769" />        
 <img width="650" height="572" alt="HAPUS LANGGANAN 2 'y' (2)" src="https://github.com/user-attachments/assets/936c2145-d7d5-4009-af5f-9ee8194528c0" />                                                   
 
- 1.5.1 Hapus langganan jika setelah menghapus satu paket langganan admin memilih untuk menghapus paket langganan  lain nya 
+ 1.5.1 Hapus langganan jika setelah menghapus satu paket langganan admin memilih untuk menghapus paket langganan lain nya 
 
 <img width="717" height="534" alt="image" src="https://github.com/user-attachments/assets/b85df902-cc5f-4fef-be34-6c96f8d622ba" />
+
+
+<img width="668" height="840" alt="image" src="https://github.com/user-attachments/assets/37f6261f-bb04-4d61-bff8-ad161130bf59" />
+
+1.5.2 Hapus langganan jika ID tidak valid 
+
+
+<img width="717" height="534" alt="Screenshot 2025-10-26 203501" src="https://github.com/user-attachments/assets/c23fd226-5b77-4e6d-bbe3-703dc5eb0e1e" />                                    
 
 1.6 Ajuan Pengguna di setujui admin
 
@@ -122,8 +134,22 @@ Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, 
 1.2 Tambah Berlangganan dengan saldo cukup                                    
 
 <img width="754" height="543" alt="image" src="https://github.com/user-attachments/assets/7581c0a7-10b7-471f-8f62-d99070351458" />                                                
+<img width="633" height="546" alt="image" src="https://github.com/user-attachments/assets/4a86855e-1d8d-4805-bc10-c3b7ff1cecb3" />
 
-1.3 Lihat status berlangganan pengguna 
+1.2.1 Tambah berlangganan saldo tidak cukup 
+
+1.3 Lihat status berlangganan pengguna pending sebelum di setujui admin
+
+<img width="687" height="549" alt="image" src="https://github.com/user-attachments/assets/6c26a8bc-1d7e-4fc1-b5b9-e4be92767811" />                        
+
+1.3.1 Lihat status berlangganan pengguna setelah di setujui admin                                    
+
+
+![WhatsApp Image 2025-10-26 at 21 16 53](https://github.com/user-attachments/assets/9c6a2ce1-91f2-4d36-8ea4-9e2b261f6beb)                                    
+
+1.4 Hapus Berlangganan pengguna 'y'                                    
+
+
 
 <img width="640" height="425" alt="image" src="https://github.com/user-attachments/assets/8c478a96-a39d-4942-a014-6a5ff7687aa9" />
 
@@ -132,6 +158,12 @@ Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, 
 <img width="638" height="438" alt="image" src="https://github.com/user-attachments/assets/f72bd4b5-8a6f-46f4-a02d-8f68a6bd4264" />                                    
 
 1.5.2 Menu Top-up dan cek saldo, jika pengguna memilih melanjutkan mengisi saldo
+
+![WhatsApp Image 2025-10-26 at 21 16 53 (2)](https://github.com/user-attachments/assets/9ce227dc-3869-4d9f-905b-9268abc0bc91)
+
+1.5.3 Menu Top-up dan cek saldo, jika pengguna top-up kurang daru 10.000
+
+1.5.4 Menu Top-up dan cek saldo, jika pengguna top-up kurang daru 1.000.000
 
 <img width="672" height="563" alt="image" src="https://github.com/user-attachments/assets/440d0ad2-b15c-4639-98b3-84cf259a4cf0" />                        
 
