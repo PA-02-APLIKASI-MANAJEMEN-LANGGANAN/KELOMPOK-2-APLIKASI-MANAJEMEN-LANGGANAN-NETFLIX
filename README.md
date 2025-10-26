@@ -99,15 +99,23 @@ Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, 
 
  1.5.1 Hapus langganan jika setelah menghapus satu paket langganan admin memilih untuk menghapus paket langganan  lain nya 
 
+<img width="717" height="534" alt="image" src="https://github.com/user-attachments/assets/b85df902-cc5f-4fef-be34-6c96f8d622ba" />
 
- 
+1.6 Ajuan Pengguna di setujui admin
+
+<img width="634" height="398" alt="image" src="https://github.com/user-attachments/assets/910b3d09-ba17-4e5a-a8ea-7fb6cf7e238c" />                                    
+
+1.6.1 Tidak ada ajuan pengguna 
+
 <img width="631" height="675" alt="LOGOUT ADMIN" src="https://github.com/user-attachments/assets/ec4a69f1-21db-424d-8f00-cab64184fa5a" />  
      
 1.7 Logout                                                 
 
                                                 MENU PENGGUNA                                                       
 
+<img width="720" height="516" alt="image" src="https://github.com/user-attachments/assets/3ad158ed-3957-416d-aeb5-906079e1b02e" />
 
+1.1 Tampilan Awal menu pengguna 
 
 <img width="739" height="704" alt="image" src="https://github.com/user-attachments/assets/5065f682-9b2a-46ef-8d7b-238c45eb03bd" />
 
@@ -115,22 +123,29 @@ Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, 
 
 <img width="754" height="543" alt="image" src="https://github.com/user-attachments/assets/7581c0a7-10b7-471f-8f62-d99070351458" />                                                
 
-1.3 Lihat status berlangganan pengguna
+1.3 Lihat status berlangganan pengguna 
 
-<img width="728" height="656" alt="image" src="https://github.com/user-attachments/assets/efe90fef-5c57-49ab-b141-7510f9f6b899" />
+<img width="640" height="425" alt="image" src="https://github.com/user-attachments/assets/8c478a96-a39d-4942-a014-6a5ff7687aa9" />
 
-1.4 Hapus status langganan pengguna
+1.5.1 Menu Top-up dan cek saldo, jika pengguna hanya ingin mengecek saldo
 
-<img width="716" height="837" alt="image" src="https://github.com/user-attachments/assets/6f8ce8c4-f7f6-49c8-b946-21a7a539f892" />
+<img width="638" height="438" alt="image" src="https://github.com/user-attachments/assets/f72bd4b5-8a6f-46f4-a02d-8f68a6bd4264" />                                    
 
-1.5 Top up saldo dan cek saldo
+1.5.2 Menu Top-up dan cek saldo, jika pengguna memilih melanjutkan mengisi saldo
 
-<img width="765" height="545" alt="image" src="https://github.com/user-attachments/assets/b9966c80-ccb6-4174-9bad-931393f29690" />
+<img width="672" height="563" alt="image" src="https://github.com/user-attachments/assets/440d0ad2-b15c-4639-98b3-84cf259a4cf0" />                        
 
-1.6 Logout 
+1.6 Logout pengguna 
 
+<img width="668" height="402" alt="image" src="https://github.com/user-attachments/assets/bf6f9f59-19d1-498f-8aff-9b6d44a2e9ac" />                                    
 
+1.7 Jika pengguna mengisi menu tidak valid 
 
+                                                            LEAVE 
 
+                                                            
+<img width="693" height="395" alt="image" src="https://github.com/user-attachments/assets/43b57678-888c-4f09-bc60-dcb54e35eddb" />   
+
+1. Jika pengguna memilih keluar dari sistem
 
 
