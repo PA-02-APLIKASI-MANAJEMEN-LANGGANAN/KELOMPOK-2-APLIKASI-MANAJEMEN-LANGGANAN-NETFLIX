@@ -25,4 +25,6 @@ Flowchart 2 Menu Pengguna
                                     TAMPILAN PROGRAM 
                                                    
 <img width="600" height="323" alt="TAMPILAN AWAL" src="https://github.com/user-attachments/assets/631e215b-e0fa-4b69-a7d0-54c20bb30840" />                                                                                                              
-Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, Registrasi, dan Leave. Jika memilih 1 (Login), pengguna akan diminta memasukkan username dan password yang sudah terdaftar sebelumnya. Kalau pengguna memilih 2 (Registrasi), program akan menampilkan menu pendaftaran dan meminta pengguna untuk memasukkan username serta password baru. Sementara kalau memilih 3 (Leave), program akan langsung keluar atau berhenti berjalan.                                                                                                                    
+
+Saat Program dijalankan, tampilan awalnya akan menampilkan tiga pilihan: Login, Registrasi, dan Leave. Jika memilih 1 (Login), pengguna akan diminta memasukkan username dan password yang sudah terdaftar sebelumnya. Kalau pengguna memilih 2 (Registrasi), program akan menampilkan menu pendaftaran dan meminta pengguna untuk memasukkan username serta password baru. Sementara kalau memilih 3 (Leave), program akan langsung keluar atau berhenti berjalan. 
+
