@@ -1,0 +1,35 @@
+[
+  {
+    "ID": 1,
+    "username": "bila123",
+    "password": "nabila123",
+    "role": "Admin"
+  },
+  {
+    "ID": 2,
+    "username": "daffasi",
+    "password": "nasgor89",
+    "role": "pengguna",
+    "paket berlangganan": "Basic",
+    "saldo": 102000,
+    "status_langganan": "aktif"
+  },
+  {
+    "ID": 3,
+    "username": "kevinb",
+    "password": "lapar1",
+    "role": "pengguna",
+    "paket berlangganan": "Basic",
+    "saldo": 105000,
+    "status_langganan": "aktif"
+  },
+  {
+    "ID": 4,
+    "username": "Auls",
+    "password": "the8",
+    "role": "pengguna",
+    "paket berlangganan": "",
+    "saldo": 0,
+    "status_langganan": "nonaktif"
+  }
+]
